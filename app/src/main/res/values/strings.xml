@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GitLabTest</string>
+    <string name="tiaoguo">跳过</string>
+
 </resources>
