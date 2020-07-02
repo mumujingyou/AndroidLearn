@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.qunxinr.gitlabtest.MainActivity">
 
+
     <TextView
         android:layout_marginTop="20dp"
         android:layout_marginRight="20dp"
